@@ -1,0 +1,12 @@
+figure.roedores{
+    margin-top: 15%;
+    float: left;
+    color:teal
+    
+}
+
+figure.aves{
+    float: right;
+    margin-right: 40%;
+    margin-top: 15%;
+}
